@@ -1,3 +1,3 @@
 # NginxLogAnalyser
 
-# source script.bash
+# to execute -  source script.bash
